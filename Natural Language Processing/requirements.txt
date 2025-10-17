@@ -1,0 +1,12 @@
+ipykernel
+python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+ucimlrepo
+nltk
+pyarrow
+fastparquet
+wordcloud
